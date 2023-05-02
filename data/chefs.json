@@ -1,41 +1,41 @@
 [
     {
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Zahirul Islam",
         "years_of_experience": 10,
         "num_of_recipes": 50,
         "likes": 500
     },
     {
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://images.pexels.com/photos/14767151/pexels-photo-14767151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Nazneen Akter",
         "years_of_experience": 8,
         "num_of_recipes": 40,
         "likes": 450
     },
     {
-        "picture": "https://example.com/chef3.jpg",
+        "picture": "https://images.pexels.com/photos/2072119/pexels-photo-2072119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Abdul Hannan",
         "years_of_experience": 15,
         "num_of_recipes": 75,
         "likes": 550
     },
     {
-        "picture": "https://example.com/chef4.jpg",
+        "picture": "https://images.pexels.com/photos/14940052/pexels-photo-14940052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Jannatul Ferdous",
         "years_of_experience": 5,
         "num_of_recipes": 30,
         "likes": 535
     },
     {
-        "picture": "https://example.com/chef5.jpg",
+        "picture": "https://images.pexels.com/photos/11176458/pexels-photo-11176458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Tasnim Jahan",
         "years_of_experience": 12,
         "num_of_recipes": 60,
         "likes": 350
     },
     {
-        "picture": "https://example.com/chef6.jpg",
+        "picture": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Saiful Islam",
         "years_of_experience": 6,
         "num_of_recipes": 35,

@@ -1,44 +1,56 @@
 [
     {
+        "id": 1,
         "picture": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Zahirul Islam",
-        "years_of_experience": 10,
-        "num_of_recipes": 50,
-        "likes": 500
+        "years_of_experience": 5,
+        "num_of_recipes": 3,
+        "likes": 500,
+        "bio": "Zahirul Islam is a renowned Bangladeshi chef with 5 years of experience in cooking. He is known for his innovative and creative recipes that combine traditional Bangladeshi flavors with modern cooking techniques. Zahirul has won several awards for his culinary skills and has published a cookbook featuring his signature dishes."
     },
     {
+        "id": 2,
         "picture": "https://images.pexels.com/photos/14767151/pexels-photo-14767151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Nazneen Akter",
-        "years_of_experience": 8,
-        "num_of_recipes": 40,
-        "likes": 450
+        "years_of_experience": 5,
+        "num_of_recipes": 3,
+        "likes": 450,
+        "bio": "Nazneen Akter is a talented Bangladeshi chef with a passion for creating delicious and healthy dishes. She specializes in vegetarian and vegan cooking and is known for her unique flavor combinations and use of fresh, locally sourced ingredients. Nazneen has appeared on several cooking shows and has published a cookbook featuring her favorite recipes."
     },
     {
+        "id": 3,
         "picture": "https://images.pexels.com/photos/2072119/pexels-photo-2072119.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Abdul Hannan",
-        "years_of_experience": 15,
-        "num_of_recipes": 75,
-        "likes": 550
+        "years_of_experience": 3,
+        "num_of_recipes": 3,
+        "likes": 550,
+        "bio": "Abdul Hannan is a veteran Bangladeshi chef with 3 years of experience in the culinary industry. He is an expert in traditional Bangladeshi cuisine and is known for his use of fresh spices and herbs to create flavorful and aromatic dishes. Abdul has trained many aspiring chefs and is a mentor to many young talents in the culinary world."    
     },
     {
+        "id": 4,
         "picture": "https://images.pexels.com/photos/14940052/pexels-photo-14940052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Jannatul Ferdous",
         "years_of_experience": 5,
-        "num_of_recipes": 30,
-        "likes": 535
+        "num_of_recipes": 3,
+        "likes": 535,
+        "bio": "Jannatul Ferdous is a cooking star in the Bangladeshi culinary scene. She is known for her fusion dishes that combine traditional Bangladeshi flavors with international cooking styles. Jannatul is passionate about experimenting with different ingredients and techniques to create unique and memorable dishes. She has won several awards for her culinary skills and has been featured in various cooking magazines and TV shows."
     },
     {
+        "id": 5,
         "picture": "https://images.pexels.com/photos/11176458/pexels-photo-11176458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Tasnim Jahan",
-        "years_of_experience": 12,
-        "num_of_recipes": 60,
-        "likes": 350
+        "years_of_experience": 3,
+        "num_of_recipes": 3,
+        "likes": 350,
+        "bio": "Tasnim Jahan is a versatile Bangladeshi chef with 3 years of experience in the culinary industry. She is known for her expertise in both traditional and modern Bangladeshi cuisine and is passionate about using locally sourced ingredients to create healthy and flavorful dishes. Tasnim has trained many young chefs and is a mentor to many aspiring culinary professionals."
     },
     {
+        "id": 6,
         "picture": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "name": "Saiful Islam",
-        "years_of_experience": 6,
-        "num_of_recipes": 35,
-        "likes": 510
+        "years_of_experience": 2,
+        "num_of_recipes": 3,
+        "likes": 510,
+        "bio": "Chef Saiful Islam is a talented Bangladeshi chef with 3 years of experience in the culinary industry. He is known for his creative and flavorful dishes that showcase the best of Bangladeshi cuisine. Chef Saiful is passionate about using fresh, locally sourced ingredients in his cooking, and is dedicated to promoting sustainable and ethical food practices. He has won several awards for his cooking and is a rising star in the Bangladeshi culinary scene."
     }
 ]

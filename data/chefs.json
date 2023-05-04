@@ -1,21 +1,31 @@
 [
     {
         "id": 1,
-        "picture": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "picture": "https://i.ibb.co/hfzM06r/pexels-photo-2379005.jpg",
         "name": "Zahirul Islam",
         "years_of_experience": 5,
         "num_of_recipes": 3,
         "likes": 500,
-        "bio": "Zahirul Islam is a renowned Bangladeshi chef with 5 years of experience in cooking. He is known for his innovative and creative recipes that combine traditional Bangladeshi flavors with modern cooking techniques. Zahirul has won several awards for his culinary skills and has published a cookbook featuring his signature dishes."
+        "bio": "Zahirul Islam is a renowned Bangladeshi chef with 5 years of experience in cooking. He is known for his innovative and creative recipes that combine traditional Bangladeshi flavors with modern cooking techniques. Zahirul has won several awards for his culinary skills and has published a cookbook featuring his signature dishes.",
+        "food_name": "Chittagong Prawn Curry",
+        "ingredients": "1 pound fresh prawns, 2 tbsp vegetable oil, 1 onion chopped, 1 tbsp garlic paste, 1 tbsp ginger paste, 2 tomatoes chopped, 1 tsp turmeric powder, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp red chili powder, Salt and pepper to taste, 1 cup water.",
+        "directions": "Heat the oil in a pan over medium heat. Add the onion and cook until soft. Add the garlic and ginger paste and cook for a minute. Add the tomatoes turmeric cumin coriander and red chili powder and cook for 5-7 minutes. Add the prawns and salt and cook for 2-3 minutes. Add water and bring to a boil. Reduce heat to low and simmer for 10 minutes.Serve hot with rice.",
+        "image": "https://images.pexels.com/photos/2291353/pexels-photo-2291353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.7
     },
     {
         "id": 2,
-        "picture": "https://images.pexels.com/photos/14767151/pexels-photo-14767151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "picture": "https://i.ibb.co/cy499vW/pexels-photo-14767151.jpg",
         "name": "Nazneen Akter",
         "years_of_experience": 5,
         "num_of_recipes": 3,
         "likes": 450,
-        "bio": "Nazneen Akter is a talented Bangladeshi chef with a passion for creating delicious and healthy dishes. She specializes in vegetarian and vegan cooking and is known for her unique flavor combinations and use of fresh, locally sourced ingredients. Nazneen has appeared on several cooking shows and has published a cookbook featuring her favorite recipes."
+        "bio": "Nazneen Akter is a talented Bangladeshi chef with a passion for creating delicious and healthy dishes. She specializes in vegetarian and vegan cooking and is known for her unique flavor combinations and use of fresh, locally sourced ingredients. Nazneen has appeared on several cooking shows and has published a cookbook featuring her favorite recipes.",
+        "food_name": "Beef Bhuna",
+        "ingredients": "1 lb beef, cut into small pieces, 1 onion, chopped, 2 garlic cloves, minced, 1 inch ginger, minced, 1 tsp turmeric, 1 tsp cumin, 1 tsp coriander, 1 tsp red chili powder, 2 tbsp vegetable oil, Salt and pepper to taste, 1/2 cup water",
+        "directions": "Heat the oil in a pan over medium heat. Add the onion and cook until soft. Add the garlic ginger turmeric cumin coriander and chili powder and cook for 2-3 minutes. Add the beef and cook for 5-7 minutes until browned. Add salt and pepper to taste. Add water and bring to a boil. Reduce heat to low and simmer for 30-40 minutes or until the beef is tender and the sauce has thickened. Serve hot with rice or bread.",
+        "image": "https://images.pexels.com/photos/1731535/pexels-photo-1731535.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.5
     },
     {
         "id": 3,
@@ -24,25 +34,40 @@
         "years_of_experience": 3,
         "num_of_recipes": 3,
         "likes": 550,
-        "bio": "Abdul Hannan is a veteran Bangladeshi chef with 3 years of experience in the culinary industry. He is an expert in traditional Bangladeshi cuisine and is known for his use of fresh spices and herbs to create flavorful and aromatic dishes. Abdul has trained many aspiring chefs and is a mentor to many young talents in the culinary world."    
+        "bio": "Abdul Hannan is a veteran Bangladeshi chef with 3 years of experience in the culinary industry. He is an expert in traditional Bangladeshi cuisine and is known for his use of fresh spices and herbs to create flavorful and aromatic dishes. Abdul has trained many aspiring chefs and is a mentor to many young talents in the culinary world.", 
+        "food_name": "Bhuna Chicken",
+        "ingredients": "1 lb boneless chicken, 2 onions, chopped, 2 garlic cloves, minced, 1 inch ginger, minced, 1 tsp turmeric, 1 tsp cumin, 1 tsp coriander, 1 tsp red chili powder, 2 tbsp vegetable oil, Salt and pepper to taste, 1/2 cup water",
+        "directions": "Heat the oil in a pan over medium heat. Add the onion and cook until soft. Add the garlic ginger turmeric cumin coriander and chili powder and cook for 2-3 minutes. Add the chicken and cook for 5-7 minutes until browned. Add salt and pepper to taste. Add water and bring to a boil. Reduce heat to low and simmer for 30-40 minutes or until the chicken is cooked through and the sauce has thickened. Serve hot with rice or bread.",
+        "image": "https://images.pexels.com/photos/6113813/pexels-photo-6113813.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.4   
     },
     {
         "id": 4,
-        "picture": "https://images.pexels.com/photos/14940052/pexels-photo-14940052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "picture": "https://i.ibb.co/0KRZDrb/pexels-photo-14940052.jpg",
         "name": "Jannatul Ferdous",
         "years_of_experience": 5,
         "num_of_recipes": 3,
         "likes": 535,
-        "bio": "Jannatul Ferdous is a cooking star in the Bangladeshi culinary scene. She is known for her fusion dishes that combine traditional Bangladeshi flavors with international cooking styles. Jannatul is passionate about experimenting with different ingredients and techniques to create unique and memorable dishes. She has won several awards for her culinary skills and has been featured in various cooking magazines and TV shows."
+        "bio": "Jannatul Ferdous is a cooking star in the Bangladeshi culinary scene. She is known for her fusion dishes that combine traditional Bangladeshi flavors with international cooking styles. Jannatul is passionate about experimenting with different ingredients and techniques to create unique and memorable dishes. She has won several awards for her culinary skills and has been featured in various cooking magazines and TV shows.",
+        "food_name": "Bangladeshi chicken curry",
+        "ingredients": "2 lbs chicken thighs, 1 onion, chopped, 2 cloves garlic, minced, 1 tbsp ginger, minced, 2 tbsp vegetable oil, 1 tsp cumin powder, 1 tsp coriander powder, 1 tsp turmeric powder, 1 tsp chili powder, 1 cup tomato puree, 1 cup water, Salt and pepper to taste",
+        "directions": "Heat the oil in a large saucepan over medium heat. Add the onion garlic and ginger and cook until the onion is soft and translucent. Add the chicken and brown on all sides. Add the cumin coriander turmeric chili powder and salt and pepper to taste. Stir well to combine. Add the tomato puree and water and bring to a simmer. Reduce heat to low and simmer for 30-40 minutes or until the chicken is cooked through and the sauce has thickened. Serve hot with rice or bread.",
+        "image": "https://images.pexels.com/photos/2611917/pexels-photo-2611917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.5
     },
     {
         "id": 5,
-        "picture": "https://images.pexels.com/photos/11176458/pexels-photo-11176458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "picture": "https://i.ibb.co/9GZr2ZL/pexels-photo-11176458-1.jpg",
         "name": "Tasnim Jahan",
         "years_of_experience": 3,
         "num_of_recipes": 3,
         "likes": 350,
-        "bio": "Tasnim Jahan is a versatile Bangladeshi chef with 3 years of experience in the culinary industry. She is known for her expertise in both traditional and modern Bangladeshi cuisine and is passionate about using locally sourced ingredients to create healthy and flavorful dishes. Tasnim has trained many young chefs and is a mentor to many aspiring culinary professionals."
+        "bio": "Tasnim Jahan is a versatile Bangladeshi chef with 3 years of experience in the culinary industry. She is known for her expertise in both traditional and modern Bangladeshi cuisine and is passionate about using locally sourced ingredients to create healthy and flavorful dishes. Tasnim has trained many young chefs and is a mentor to many aspiring culinary professionals.",
+        "food_name": "Mutton Curry",
+        "ingredients": "1 lb mutton, cut into small pieces, 1 onion, chopped, 2 garlic cloves, minced, 1 inch ginger, minced, 1 tsp turmeric, 1 tsp cumin, 1 tsp coriander, 1 tsp red chili powder, 2 tbsp vegetable oil, Salt and pepper to taste, 1/2 cup water",
+        "directions": "Heat the oil in a pan over medium heat. Add the onion and cook until soft. Add the garlic ginger turmeric cumin coriander and chili powder and cook for 2-3 minutes. Add the mutton and cook for 5-7 minutes until browned.Add salt and pepper to taste. Add water and bring to a boil. Reduce heat to low and simmer for 30-40 minutes or until the mutton is tender and the sauce has thickened. Serve hot with rice or bread.",
+        "image": "https://images.pexels.com/photos/9609846/pexels-photo-9609846.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.6    
     },
     {
         "id": 6,
@@ -51,6 +76,11 @@
         "years_of_experience": 2,
         "num_of_recipes": 3,
         "likes": 510,
-        "bio": "Chef Saiful Islam is a talented Bangladeshi chef with 3 years of experience in the culinary industry. He is known for his creative and flavorful dishes that showcase the best of Bangladeshi cuisine. Chef Saiful is passionate about using fresh, locally sourced ingredients in his cooking, and is dedicated to promoting sustainable and ethical food practices. He has won several awards for his cooking and is a rising star in the Bangladeshi culinary scene."
+        "bio": "Chef Saiful Islam is a talented Bangladeshi chef with 3 years of experience in the culinary industry. He is known for his creative and flavorful dishes that showcase the best of Bangladeshi cuisine. Chef Saiful is passionate about using fresh, locally sourced ingredients in his cooking, and is dedicated to promoting sustainable and ethical food practices. He has won several awards for his cooking and is a rising star in the Bangladeshi culinary scene.",
+        "food_name": "Fish Curry",
+        "ingredients": "1 lb fish, cut into pieces, 1 onion, chopped, 2 garlic cloves, minced, 1 inch ginger, minced,1 tsp turmeric, 1 tsp cumin, 1 tsp coriander, 1 tsp red chili powder, 2 tbsp vegetable oil, Salt and pepper to taste,1/2 cup water",
+        "directions": "Heat the oil in a pan over medium heat. Add the onion and cook until soft. Add the garlic ginger turmeric cumin coriander and chili powder and cook for 2-3 minutes. Add the fish and cook for 5-7 minutes until browned. Add salt and pepper to taste. Add water and bring to a boil. Reduce heat to low and simmer for 10-15 minutes or until the fish is cooked through and the sauce has thickened. Serve hot with rice.",
+        "image": "https://images.pexels.com/photos/262959/pexels-photo-262959.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "rating": 4.3
     }
 ]
